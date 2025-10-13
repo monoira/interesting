@@ -108,8 +108,8 @@ Programming related Youtubers, talks, videos and podcasts.
 
 ## Youtube Playlists
 
-- [Tom Scott videos for Computerphile PLAYLIST](https://www.youtube.com/watch?v=-enHfpHMBo4&list=PL96C35uN7xGLux5q2c4P_IqbKF11-pfsR)
-- [Basics By Tom Scott PLAYLIST](https://www.youtube.com/watch?v=CINVwWHlzTY&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
+- [Tom Scott videos for Computerphile PLAYLIST](https://www.youtube.com/playlist?list=PL96C35uN7xGLux5q2c4P_IqbKF11-pfsR)
+- [Basics By Tom Scott PLAYLIST](https://www.youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
 
 ## Youtube Podcasts
 
