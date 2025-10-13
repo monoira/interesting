@@ -92,6 +92,18 @@ Programming related Youtubers, talks, videos and podcasts.
 
 ---
 
+- [Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks](https://www.youtube.com/watch?v=FyCYva9DhsI)
+- [Simple Code, High Performance](https://www.youtube.com/watch?v=Ge3aKEmZcqY)
+- [Where Does Bad Code Come From?](https://www.youtube.com/watch?v=7YpFGkG-u1w)
+- [Performance Excuses Debunked](https://www.youtube.com/watch?v=x2EOOJg8FkA)
+- ["Clean" Code, Horrible Performance](https://www.youtube.com/watch?v=tD5NrevFtbU)
+- [Clean Code : Horrible Performance | Full Interview](https://www.youtube.com/watch?v=OtozASk68Os)
+- [Stop Recommending Clean Code](https://www.youtube.com/watch?v=IqHaGd9J42s)
+- ["Clean Code" is bad. What makes code "maintainable"? part 1 of n](https://www.youtube.com/watch?v=8ncQrGuunHY)
+- [Don't Clean Code w/ Creator of HTMX](https://www.youtube.com/watch?v=hQJcGmWXDJw)
+
+---
+
 - [Challenges at the Intersection of Law and Technology - CS50 for Lawyers 2019](https://www.youtube.com/watch?v=a9mzwAljhnE)
 - [Free and Open Source software licenses explained](https://www.youtube.com/watch?v=UMIG4KnM8xw)
 
