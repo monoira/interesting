@@ -8,7 +8,7 @@ Programming related Youtubers, talks, videos and podcasts.
   - [Youtube Standalone Videos](#youtube-standalone-videos)
   - [Youtube Playlists](#youtube-playlists)
   - [Youtube Podcasts](#youtube-podcasts)
-  - [other such repository projects](#other-such-repository-projects)
+  - [Other such repository projects](#other-such-repository-projects)
 
 ## Youtubers
 
@@ -118,7 +118,7 @@ Programming related Youtubers, talks, videos and podcasts.
 - [The Standup By Primeagen](https://www.youtube.com/watch?v=v9gsMFozXK0&list=PL2Fq-K0QdOQiJpufsnhEd1z3xOv2JMHuk)
 - [FreeCodeCamp Podcast By Quincy Larson](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm04DK8TSUCRheRjW2P9TR7)
 
-## other such repository projects
+## Other such repository projects
 
-[hellerve/programming-talks](https://github.com/hellerve/programming-talks)
-[JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
+- [hellerve/programming-talks](https://github.com/hellerve/programming-talks)
+- [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
