@@ -113,8 +113,8 @@ Programming related Youtubers, talks, videos and podcasts.
 
 ## Youtube Podcasts
 
-- [TopShelf By Primeagen](https://www.youtube.com/watch?v=V8Bg55lTUCw&list=PL2Fq-K0QdOQhLEX54hNhsTRvKnCSQrzyn)
-- [The Standup By Primeagen](https://www.youtube.com/watch?v=v9gsMFozXK0&list=PL2Fq-K0QdOQiJpufsnhEd1z3xOv2JMHuk)
+- [TopShelf By Primeagen](https://www.youtube.com/playlist?list=PL2Fq-K0QdOQhLEX54hNhsTRvKnCSQrzyn)
+- [The Standup By Primeagen](https://www.youtube.com/playlist?list=PL2Fq-K0QdOQiJpufsnhEd1z3xOv2JMHuk)
 - [FreeCodeCamp Podcast By Quincy Larson](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm04DK8TSUCRheRjW2P9TR7)
 
 ## Other similar projects
