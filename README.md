@@ -1,0 +1,106 @@
+# interesting
+
+Programming related Youtubers, talks, videos and podcasts.
+
+- [interesting](#interesting)
+  - [Youtubers](#youtubers)
+  - [Youtube Talks](#youtube-talks)
+  - [Youtube Standalone Videos](#youtube-standalone-videos)
+  - [Youtube Playlists](#youtube-playlists)
+  - [Youtube Podcasts](#youtube-podcasts)
+
+## Youtubers
+
+- [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen/videos)
+- [Healthy Software Developer](https://www.youtube.com/@HealthyDev/videos)
+- [Internet of Bugs](https://www.youtube.com/@InternetOfBugs/videos)
+- [RobertElderSoftware](https://www.youtube.com/@RobertElderSoftware/videos)
+- [Coding Jesus](https://www.youtube.com/@CodingJesus/videos)
+- [Eli the Computer Guy](https://www.youtube.com/@elithecomputerguy/videos)
+- [The Daily Blob](https://www.youtube.com/@EliComputerGuyLive/videos)
+- [Failed Normal](https://www.youtube.com/@FailedNormal/videos)
+
+---
+
+- [John Hammond](https://www.youtube.com/@_JohnHammond/videos)
+- [Hussein Nasser](https://www.youtube.com/@hnasr/videos)
+- [GOTO Conferences](https://www.youtube.com/@GOTO-/videos)
+- [NDC Conferences](https://www.youtube.com/@NDC/videos)
+- [Strange Loop Conference](https://www.youtube.com/@StrangeLoopConf/videos)
+
+---
+
+- [Fireship](https://www.youtube.com/@Fireship/videos)
+- [CodeAesthetic](https://www.youtube.com/@CodeAesthetic/videos)
+- [bigboxSWE](https://www.youtube.com/@bigboxSWE/videos)
+- [Hyperplexed](https://www.youtube.com/@Hyperplexed/videos)
+
+## Youtube Talks
+
+- [Preventing the Collapse of Civilization / Jonathan Blow](https://www.youtube.com/watch?v=ZSRHeXYDLko)
+- [The Worst Programming Language Ever - Mark Rendle](https://www.youtube.com/watch?v=vcFBwt1nu2U)
+- [Programming’s Greatest Mistakes - Mark Rendle](https://www.youtube.com/watch?v=qC_ioJQpv4E)
+- [Futurology for Dummies - the Next 30 Years in Tech - Mark Rendle](https://www.youtube.com/watch?v=By4Gb1RKZpU)
+- [Locknote: Confessions of an Imposter - Mark Rendle](https://www.youtube.com/watch?v=BncBqBye_gI)
+- [How Simple Is "As Simple As Possible" - Mark Rendle](https://www.youtube.com/watch?v=fL2poAw2cb0)
+- [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
+- [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie](https://www.youtube.com/watch?v=mrGfahzt-4Q)
+- [Failure is Always an Option - Dylan Beattie](https://www.youtube.com/watch?v=Vk2fi7NZ3OQ)
+- [The Web That Never Was - Dylan Beattie](https://www.youtube.com/watch?v=8JOD1AQGqEg)
+- [Open Source, Open Mind: The Cost of Free Software - Dylan Beattie](https://www.youtube.com/watch?v=vzYqxo13I1U)
+- [Architecture: The Stuff That's Hard to Change - Dylan Beattie](https://www.youtube.com/watch?v=3LtQWxhqjqI)
+- [Fractals, Factories and Fast Food - Dylan Beattie](https://www.youtube.com/watch?v=Vs1DWYrw2Ps)
+- [WhatsApp, Web3, and Wordle: Evolving a Digital Society - Dylan Beattie](https://www.youtube.com/watch?v=DktkFTTFLHE)
+- [The Rest of ReST - Dylan Beattie](https://www.youtube.com/watch?v=g8E1B7rTZBI)
+- [User Interface (UX) Techniques - Janne Jul Jensen](https://www.youtube.com/watch?v=7OSkB4BCx00)
+- [How to Make Your Website Not Ugly: Basic UX for Programmers - Hilary Stohs-Krause](https://www.youtube.com/watch?v=Jf0cjocP8Wk)
+- [The Psychology of UX - Fabio Pereira](https://www.youtube.com/watch?v=rf9Gh-VMvIk)
+- [Computer Science - A Guide for the Perplexed - Joe Armstrong](https://www.youtube.com/watch?v=rmueBVrLKcY)
+- [The Do's and Don'ts of Error Handling - Joe Armstrong](https://www.youtube.com/watch?v=TTM_b7EJg5E)
+- [Systems that run forever self-heal and scale - Joe Armstrong](https://www.youtube.com/watch?v=cNICGEwmXLU)
+- [The Mess We're In - Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
+- [Don't Walk Away from Complexity, Run - Venkat Subramaniam](https://www.youtube.com/watch?v=4MEKu2TcEHM)
+- [Reasons & Ways to Improve Code Quality - Venkat Subramaniam](https://www.youtube.com/watch?v=znZlF4uQBN0)
+- [Thinking Like an Architect - Gregor Hohpe](https://www.youtube.com/watch?v=xtxfrxf0mfE)
+- [Quantum Computing - Jessica Pointing](https://www.youtube.com/watch?v=d2pGGNQ63GQ)
+- [So, you want to be a CTO? - Mahesh Krishnan](https://www.youtube.com/watch?v=Kq0NZ9NdpDs)
+- [Why Scaling Agile Doesn't Work - Jez Humble](https://www.youtube.com/watch?v=2zYxWEZ0gYg)
+- [Frankenbuilds: If Agile is so Good, Why Are Our Products so Bad? - Gabrielle Benefield](https://www.youtube.com/watch?v=2JNXx8VdbAE)
+- [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+- [How Complexity Theory Can Save Your Job - Rob Conery](https://www.youtube.com/watch?v=rYlwiJ0vr_4)
+- [Making It Count: Quality is NOT an Option - Todd Montgomery](https://www.youtube.com/watch?v=LTZdmb5-8n8)
+- ["Simple Made Easy" - Rich Hickey](https://www.youtube.com/watch?v=WfUQHpcLKF4)
+- [Refactoring Is Not Just Clickbait - Kevlin Henney](https://www.youtube.com/watch?v=SxdOUGdseq4)
+- [Microservices, Where Did It All Go Wrong - Ian Cooper](https://www.youtube.com/watch?v=d8NDgwOllaI)
+- [Keynote: The past, present, and future of AI for application developers - Steve Sanderson](https://www.youtube.com/watch?v=awztkr8n0AA)
+- [Keynote: AI without the BS, for humans - Scott Hanselman](https://www.youtube.com/watch?v=kYUicaho5k8)
+- [Scaling Yourself - Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)
+- [Keynote: Lies Developers Tell Themselves - Billy Hollis](https://www.youtube.com/watch?v=cADdwFk2-7U)
+- [30 Tips for Secure JavaScript - Tanya Janca](https://www.youtube.com/watch?v=hO8sctJMlp0)
+- [The Zen of Programming - Sander Hoogendoorn](https://www.youtube.com/watch?v=syGnlE_oosM)
+- [Code Red: The Business Impact of Code Quality - Adam Tornhill](https://www.youtube.com/watch?v=aRR0EDazxIk)
+- [How to Take Great Engineers & Make Them Great Technical Leaders - Courtney Hemphill](https://www.youtube.com/watch?v=RtMmxqkPVug)
+- ["Stop Writing Dead Programs" - Jack Rusher](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
+- ["The Early Days of id Software: Programming Principles" - John Romero](https://www.youtube.com/watch?v=IzqdZAYcwfY)
+
+## Youtube Standalone Videos
+
+- [I Interviewed Uncle Bob](https://www.youtube.com/watch?v=UBXXw2JSloo)
+- [Social Media Damages Your Brain](https://www.youtube.com/watch?v=7fjBIPKTKQw)
+- [Work Life Balance](https://www.youtube.com/watch?v=NKzr1nOWlh0)
+
+---
+
+- [Challenges at the Intersection of Law and Technology - CS50 for Lawyers 2019](https://www.youtube.com/watch?v=a9mzwAljhnE)
+- [Free and Open Source software licenses explained](https://www.youtube.com/watch?v=UMIG4KnM8xw)
+
+## Youtube Playlists
+
+- [Tom Scott videos for Computerphile PLAYLIST](https://www.youtube.com/watch?v=-enHfpHMBo4&list=PL96C35uN7xGLux5q2c4P_IqbKF11-pfsR)
+- [Basics By Tom Scott PLAYLIST](https://www.youtube.com/watch?v=CINVwWHlzTY&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
+
+## Youtube Podcasts
+
+- [TopShelf By Primeagen](https://www.youtube.com/watch?v=V8Bg55lTUCw&list=PL2Fq-K0QdOQhLEX54hNhsTRvKnCSQrzyn)
+- [The Standup By Primeagen](https://www.youtube.com/watch?v=v9gsMFozXK0&list=PL2Fq-K0QdOQiJpufsnhEd1z3xOv2JMHuk)
+- [FreeCodeCamp Podcast By Quincy Larson](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm04DK8TSUCRheRjW2P9TR7)
