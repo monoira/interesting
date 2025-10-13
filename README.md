@@ -33,7 +33,6 @@ Programming related Youtubers, talks, videos and podcasts.
 
 - [Fireship](https://www.youtube.com/@Fireship/videos)
 - [CodeAesthetic](https://www.youtube.com/@CodeAesthetic/videos)
-- [bigboxSWE](https://www.youtube.com/@bigboxSWE/videos)
 - [Hyperplexed](https://www.youtube.com/@Hyperplexed/videos)
 
 ## Youtube Talks
