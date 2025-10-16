@@ -82,6 +82,7 @@ Programming related Youtubers, talks, videos and podcasts.
 - [How to Take Great Engineers & Make Them Great Technical Leaders - Courtney Hemphill](https://www.youtube.com/watch?v=RtMmxqkPVug)
 - ["Stop Writing Dead Programs" - Jack Rusher](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
 - ["The Early Days of id Software: Programming Principles" - John Romero](https://www.youtube.com/watch?v=IzqdZAYcwfY)
+- [The Pyschology of Social Engineering - Niall Merrigan](https://www.youtube.com/watch?v=wDY_SPfed7c)
 
 ## Youtube Standalone Videos
 
