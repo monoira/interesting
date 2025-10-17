@@ -85,6 +85,7 @@ Programming related Youtubers, talks, videos and podcasts.
 - [The Pyschology of Social Engineering - Niall Merrigan](https://www.youtube.com/watch?v=wDY_SPfed7c)
 - [RESTful API Patterns & Practices • Mike Amundsen • GOTO 2024](https://www.youtube.com/watch?v=etKM5-gGwto)
 - [Practical API Design • Ronnie Mitra • GOTO 2019](https://www.youtube.com/watch?v=272ZZ53HS_4)
+- [Getting API security right - Philippe De Ryck - NDC London 2023](https://www.youtube.com/watch?v=7UBm8QFTaq0)
 
 ## Youtube Standalone Videos
 
