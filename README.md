@@ -70,6 +70,8 @@ Programming related Youtubers, talks, videos and podcasts.
 - [How Complexity Theory Can Save Your Job - Rob Conery](https://www.youtube.com/watch?v=rYlwiJ0vr_4)
 - [Making It Count: Quality is NOT an Option - Todd Montgomery](https://www.youtube.com/watch?v=LTZdmb5-8n8)
 - ["Simple Made Easy" - Rich Hickey](https://www.youtube.com/watch?v=WfUQHpcLKF4)
+- [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)
+- ["Design in Practice" by Rich Hickey](https://www.youtube.com/watch?v=c5QF2HjHLSE)
 - [Refactoring Is Not Just Clickbait - Kevlin Henney](https://www.youtube.com/watch?v=SxdOUGdseq4)
 - [Microservices, Where Did It All Go Wrong - Ian Cooper](https://www.youtube.com/watch?v=d8NDgwOllaI)
 - [Keynote: The past, present, and future of AI for application developers - Steve Sanderson](https://www.youtube.com/watch?v=awztkr8n0AA)
@@ -89,9 +91,9 @@ Programming related Youtubers, talks, videos and podcasts.
 
 ## Youtube Standalone Videos
 
+- [Social Media Damages Your Brain - Jonathan Blow + Primeagen](https://www.youtube.com/watch?v=7fjBIPKTKQw)
+- [Work Life Balance - Jonathan Blow + Primeagen](https://www.youtube.com/watch?v=NKzr1nOWlh0)
 - [I Interviewed Uncle Bob](https://www.youtube.com/watch?v=UBXXw2JSloo)
-- [Social Media Damages Your Brain](https://www.youtube.com/watch?v=7fjBIPKTKQw)
-- [Work Life Balance](https://www.youtube.com/watch?v=NKzr1nOWlh0)
 
 ---
 
