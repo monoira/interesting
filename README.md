@@ -73,7 +73,6 @@ Programming related Youtubers, talks, videos and podcasts.
 - [Keynote: AI without the BS, for humans - Scott Hanselman](https://www.youtube.com/watch?v=kYUicaho5k8)
 - [Scaling Yourself - Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)
 - [Keynote: Lies Developers Tell Themselves - Billy Hollis](https://www.youtube.com/watch?v=cADdwFk2-7U)
-- [30 Tips for Secure JavaScript - Tanya Janca](https://www.youtube.com/watch?v=hO8sctJMlp0)
 - [The Zen of Programming - Sander Hoogendoorn](https://www.youtube.com/watch?v=syGnlE_oosM)
 - [Code Red: The Business Impact of Code Quality - Adam Tornhill](https://www.youtube.com/watch?v=aRR0EDazxIk)
 - [How to Take Great Engineers & Make Them Great Technical Leaders - Courtney Hemphill](https://www.youtube.com/watch?v=RtMmxqkPVug)
@@ -88,6 +87,7 @@ Programming related Youtubers, talks, videos and podcasts.
 - [How to Make Your Website Not Ugly: Basic UX for Programmers - Hilary Stohs-Krause](https://www.youtube.com/watch?v=Jf0cjocP8Wk)
 - [User Interface (UX) Techniques - Janne Jul Jensen](https://www.youtube.com/watch?v=7OSkB4BCx00)
 - [The Psychology of UX - Fabio Pereira](https://www.youtube.com/watch?v=rf9Gh-VMvIk)
+- [30 Tips for Secure JavaScript - Tanya Janca](https://www.youtube.com/watch?v=hO8sctJMlp0)
 
 ## Youtube Standalone Videos
 
