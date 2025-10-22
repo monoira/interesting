@@ -13,10 +13,10 @@ Programming related Youtubers, talks, videos and podcasts.
 ## Youtubers
 
 - [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen/videos)
-- [Healthy Software Developer](https://www.youtube.com/@HealthyDev/videos)
 - [Internet of Bugs](https://www.youtube.com/@InternetOfBugs/videos)
 - [RobertElderSoftware](https://www.youtube.com/@RobertElderSoftware/videos)
 - [Coding Jesus](https://www.youtube.com/@CodingJesus/videos)
+- [Healthy Software Developer](https://www.youtube.com/@HealthyDev/videos)
 - [Eli the Computer Guy](https://www.youtube.com/@elithecomputerguy/videos)
 - [The Daily Blob](https://www.youtube.com/@EliComputerGuyLive/videos)
 - [Failed Normal](https://www.youtube.com/@FailedNormal/videos)
