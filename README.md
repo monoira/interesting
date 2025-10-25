@@ -52,6 +52,7 @@ Programming related Youtubers, talks, videos and podcasts.
 - [Fractals, Factories and Fast Food - Dylan Beattie](https://www.youtube.com/watch?v=Vs1DWYrw2Ps)
 - [WhatsApp, Web3, and Wordle: Evolving a Digital Society - Dylan Beattie](https://www.youtube.com/watch?v=DktkFTTFLHE)
 - [The Rest of ReST - Dylan Beattie](https://www.youtube.com/watch?v=g8E1B7rTZBI)
+- [Keynote: Machines, Learning, and Machine Learning - Dylan Beattie](https://www.youtube.com/watch?v=J9ZKxsPpRFk)
 - [Computer Science - A Guide for the Perplexed - Joe Armstrong](https://www.youtube.com/watch?v=rmueBVrLKcY)
 - [The Do's and Don'ts of Error Handling - Joe Armstrong](https://www.youtube.com/watch?v=TTM_b7EJg5E)
 - [Systems that run forever self-heal and scale - Joe Armstrong](https://www.youtube.com/watch?v=cNICGEwmXLU)
