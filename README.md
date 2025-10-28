@@ -28,6 +28,7 @@ Programming related Youtubers, talks, videos and podcasts.
 - [GOTO Conferences](https://www.youtube.com/@GOTO-/videos)
 - [NDC Conferences](https://www.youtube.com/@NDC/videos)
 - [Strange Loop Conference](https://www.youtube.com/@StrangeLoopConf/videos)
+- [DEFCONConference](https://www.youtube.com/@DEFCONConference/videos)
 
 ---
 
