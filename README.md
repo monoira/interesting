@@ -32,6 +32,7 @@ Programming related Youtubers, talks, videos and podcasts.
 ---
 
 - [Fireship](https://www.youtube.com/@Fireship/videos)
+- [Kevin Fang](https://www.youtube.com/@kevinfaang/videos)
 - [CodeAesthetic](https://www.youtube.com/@CodeAesthetic/videos)
 - [Hyperplexed](https://www.youtube.com/@Hyperplexed/videos)
 
