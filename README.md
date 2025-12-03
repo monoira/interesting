@@ -30,6 +30,7 @@ Programming related Youtubers, talks, videos and podcasts.
 - [NDC Conferences](https://www.youtube.com/@NDC/videos)
 - [Strange Loop Conference](https://www.youtube.com/@StrangeLoopConf/videos)
 - [DEFCONConference](https://www.youtube.com/@DEFCONConference/videos)
+- [Better Software Conference](https://www.youtube.com/@BetterSoftwareConference/videos)
 
 ---
 
