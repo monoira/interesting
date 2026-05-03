@@ -94,9 +94,9 @@ Programming related Youtubers, talks, videos and podcasts.
 - [RESTful API Patterns & Practices • Mike Amundsen • GOTO 2024](https://www.youtube.com/watch?v=etKM5-gGwto)
 - [Practical API Design • Ronnie Mitra • GOTO 2019](https://www.youtube.com/watch?v=272ZZ53HS_4)
 - [Getting API security right - Philippe De Ryck - NDC London 2023](https://www.youtube.com/watch?v=7UBm8QFTaq0)
-- [How to Make Your Website Not Ugly: Basic UX for Programmers - Hilary Stohs-Krause](https://www.youtube.com/watch?v=Jf0cjocP8Wk)
 - [User Interface (UX) Techniques - Janne Jul Jensen](https://www.youtube.com/watch?v=7OSkB4BCx00)
 - [The Psychology of UX - Fabio Pereira](https://www.youtube.com/watch?v=rf9Gh-VMvIk)
+- [How to Make Your Website Not Ugly: Basic UX for Programmers - Hilary Stohs-Krause](https://www.youtube.com/watch?v=Jf0cjocP8Wk)
 - [30 Tips for Secure JavaScript - Tanya Janca](https://www.youtube.com/watch?v=hO8sctJMlp0)
 
 ## Youtube Standalone Videos
