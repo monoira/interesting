@@ -49,6 +49,7 @@ Programming related Youtubers, talks, videos and podcasts.
 - [How Simple Is "As Simple As Possible" - Mark Rendle](https://www.youtube.com/watch?v=fL2poAw2cb0)
 - [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)
 - [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie](https://www.youtube.com/watch?v=mrGfahzt-4Q)
+- [How Enshittification Conquered the 21st Century and How We Can Overthrow It - Cory Doctorow](https://www.youtube.com/watch?v=_Ai-fC-2Bpo)
 - [Failure is Always an Option - Dylan Beattie](https://www.youtube.com/watch?v=Vk2fi7NZ3OQ)
 - [The Web That Never Was - Dylan Beattie](https://www.youtube.com/watch?v=8JOD1AQGqEg)
 - [Open Source, Open Mind: The Cost of Free Software - Dylan Beattie](https://www.youtube.com/watch?v=vzYqxo13I1U)
