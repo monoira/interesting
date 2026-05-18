@@ -80,7 +80,6 @@ Programming related Youtubers, talks, videos and podcasts.
 - ["Design in Practice" by Rich Hickey](https://www.youtube.com/watch?v=c5QF2HjHLSE)
 - ["The Early Days of id Software: Programming Principles" - John Romero](https://www.youtube.com/watch?v=IzqdZAYcwfY)
 - [Keynote: The past, present, and future of AI for application developers - Steve Sanderson](https://www.youtube.com/watch?v=awztkr8n0AA)
-- [Keynote: AI without the BS, for humans - Scott Hanselman](https://www.youtube.com/watch?v=kYUicaho5k8)
 - [Scaling Yourself - Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)
 - [Keynote: Lies Developers Tell Themselves - Billy Hollis](https://www.youtube.com/watch?v=cADdwFk2-7U)
 - [The Zen of Programming - Sander Hoogendoorn](https://www.youtube.com/watch?v=syGnlE_oosM)
