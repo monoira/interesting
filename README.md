@@ -70,7 +70,6 @@ Programming related Youtubers, talks, videos and podcasts.
 - [Don't Walk Away from Complexity, Run - Venkat Subramaniam](https://www.youtube.com/watch?v=4MEKu2TcEHM)
 - [Reasons & Ways to Improve Code Quality - Venkat Subramaniam](https://www.youtube.com/watch?v=znZlF4uQBN0)
 - [Quantum Computing - Jessica Pointing](https://www.youtube.com/watch?v=d2pGGNQ63GQ)
-- [So, you want to be a CTO? - Mahesh Krishnan](https://www.youtube.com/watch?v=Kq0NZ9NdpDs)
 - [Making It Count: Quality is NOT an Option - Todd Montgomery](https://www.youtube.com/watch?v=LTZdmb5-8n8)
 - ["Simple Made Easy" - Rich Hickey](https://www.youtube.com/watch?v=SxdOUGdseq4)
 - [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)
