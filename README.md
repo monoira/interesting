@@ -86,7 +86,6 @@ Programming related Youtubers, talks, videos and podcasts.
 - [Thinking Like an Architect - Gregor Hohpe](https://www.youtube.com/watch?v=xtxfrxf0mfE)
 - [Microservices, Where Did It All Go Wrong - Ian Cooper](https://www.youtube.com/watch?v=d8NDgwOllaI)
 - [RESTful API Patterns & Practices • Mike Amundsen • GOTO 2024](https://www.youtube.com/watch?v=etKM5-gGwto)
-- [Practical API Design • Ronnie Mitra • GOTO 2019](https://www.youtube.com/watch?v=272ZZ53HS_4)
 - [Getting API security right - Philippe De Ryck - NDC London 2023](https://www.youtube.com/watch?v=7UBm8QFTaq0)
 - [User Interface (UX) Techniques - Janne Jul Jensen](https://www.youtube.com/watch?v=7OSkB4BCx00)
 - [The Psychology of UX - Fabio Pereira](https://www.youtube.com/watch?v=rf9Gh-VMvIk)
