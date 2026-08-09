@@ -79,7 +79,6 @@ Programming related Youtubers, talks, videos and podcasts.
 - [Keynote: Lies Developers Tell Themselves - Billy Hollis](https://www.youtube.com/watch?v=cADdwFk2-7U)
 - [The Zen of Programming - Sander Hoogendoorn](https://www.youtube.com/watch?v=syGnlE_oosM)
 - [Code Red: The Business Impact of Code Quality - Adam Tornhill](https://www.youtube.com/watch?v=aRR0EDazxIk)
-- [How to Take Great Engineers & Make Them Great Technical Leaders - Courtney Hemphill](https://www.youtube.com/watch?v=RtMmxqkPVug)
 - ["Stop Writing Dead Programs" - Jack Rusher](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
 - [The Pyschology of Social Engineering - Niall Merrigan](https://www.youtube.com/watch?v=wDY_SPfed7c)
 - [Refactoring Is Not Just Clickbait - Kevlin Henney](https://www.youtube.com/watch?v=NMPeAW2RWdc)
