@@ -82,7 +82,6 @@ Programming related Youtubers, talks, videos and podcasts.
 - [The Pyschology of Social Engineering - Niall Merrigan](https://www.youtube.com/watch?v=wDY_SPfed7c)
 - [Refactoring Is Not Just Clickbait - Kevlin Henney](https://www.youtube.com/watch?v=NMPeAW2RWdc)
 - [Thinking Like an Architect - Gregor Hohpe](https://www.youtube.com/watch?v=xtxfrxf0mfE)
-- [Microservices, Where Did It All Go Wrong - Ian Cooper](https://www.youtube.com/watch?v=d8NDgwOllaI)
 - [RESTful API Patterns & Practices • Mike Amundsen • GOTO 2024](https://www.youtube.com/watch?v=etKM5-gGwto)
 - [Getting API security right - Philippe De Ryck - NDC London 2023](https://www.youtube.com/watch?v=7UBm8QFTaq0)
 - [User Interface (UX) Techniques - Janne Jul Jensen](https://www.youtube.com/watch?v=7OSkB4BCx00)
