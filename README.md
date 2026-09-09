@@ -15,6 +15,7 @@ Programming related Youtubers, talks, videos and podcasts.
 
 - [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen/videos)
 - [Internet of Bugs](https://www.youtube.com/@InternetOfBugs/videos)
+- [Theo t3gg](https://www.youtube.com/@t3dotgg/videos)
 - [Coding Jesus](https://www.youtube.com/@CodingJesus/videos)
 - [Healthy Software Developer](https://www.youtube.com/@HealthyDev/videos)
 - [Eli the Computer Guy](https://www.youtube.com/@elithecomputerguy/videos)
