@@ -38,6 +38,8 @@ Programming related Youtubers, talks, videos and podcasts.
 - [Kevin Fang](https://www.youtube.com/@kevinfaang/videos)
 - [CodeAesthetic](https://www.youtube.com/@CodeAesthetic/videos)
 - [Hyperplexed](https://www.youtube.com/@Hyperplexed/videos)
+- [Tsoding](https://www.youtube.com/@Tsoding)
+- [Tsoding Daily](https://www.youtube.com/@TsodingDaily/videos)
 
 ## Youtube Talks
 
@@ -69,7 +71,6 @@ Programming related Youtubers, talks, videos and podcasts.
 - [Winning the War on Error: Solving Halting Problem, Curing Cancer - Matt Might](https://www.youtube.com/watch?v=EVkHgKCqAcI)
 - [Don't Walk Away from Complexity, Run - Venkat Subramaniam](https://www.youtube.com/watch?v=4MEKu2TcEHM)
 - [Reasons & Ways to Improve Code Quality - Venkat Subramaniam](https://www.youtube.com/watch?v=znZlF4uQBN0)
-- [Quantum Computing - Jessica Pointing](https://www.youtube.com/watch?v=d2pGGNQ63GQ)
 - ["Simple Made Easy" - Rich Hickey](https://www.youtube.com/watch?v=SxdOUGdseq4)
 - [Hammock Driven Development - Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - ["Design in Practice" by Rich Hickey](https://www.youtube.com/watch?v=c5QF2HjHLSE)
@@ -78,6 +79,9 @@ Programming related Youtubers, talks, videos and podcasts.
 - [Scaling Yourself - Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)
 - [Keynote: Lies Developers Tell Themselves - Billy Hollis](https://www.youtube.com/watch?v=cADdwFk2-7U)
 - [The Zen of Programming - Sander Hoogendoorn](https://www.youtube.com/watch?v=syGnlE_oosM)
+
+---
+
 - [Code Red: The Business Impact of Code Quality - Adam Tornhill](https://www.youtube.com/watch?v=aRR0EDazxIk)
 - ["Stop Writing Dead Programs" - Jack Rusher](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
 - [The Pyschology of Social Engineering - Niall Merrigan](https://www.youtube.com/watch?v=wDY_SPfed7c)
