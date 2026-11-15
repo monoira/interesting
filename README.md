@@ -121,6 +121,8 @@ Programming related Youtubers, talks, videos and podcasts.
 
 - [Tom Scott videos for Computerphile PLAYLIST](https://www.youtube.com/playlist?list=PL96C35uN7xGLux5q2c4P_IqbKF11-pfsR)
 - [Basics By Tom Scott PLAYLIST](https://www.youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
+- [DNC Conferences - .NET](https://www.youtube.com/playlist?list=PL03Lrmd9CiGfr2mGZoRI1u2CIk3YxjnYt)
+- [DNC Conferences - Security](https://www.youtube.com/playlist?list=PL03Lrmd9CiGeW7SySmhjoEVaAvf736-M-)
 
 ## Youtube Podcasts
 
